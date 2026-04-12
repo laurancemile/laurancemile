@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurancemile&label=Profile%20views&color=0e75b6&style=flat" alt="laurancemile" /> </p>
 
-- 🔭 I’m currently working on my own **Bento Box -Analytical Dashboard**
+- 🔭 I’m currently working on my own **Aura Health**
 
-- 🌱 I’m currently learning **Html, Css and Javascript**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **Laurancemile@gmail.com**
 
