@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laurance Mile</h1>
 <h3 align="center">Aspiring Data Engineer</h3>
 
+
 - 🌱 I’m currently learning **SQL optimization**.
 - 📫 How to reach me: **Laurancemile@gmail.com**
 
