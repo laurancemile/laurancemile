@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Engineer</h3>
 
 
-- 🌱 I’m currently learning **SQL optimization**.
+- 🌱 I’m currently learning **Python**.
 - 📫 How to reach me: **Laurancemile@gmail.com**
 
 # 🛠️ Data Engineering Stack:
